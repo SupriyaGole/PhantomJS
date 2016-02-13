@@ -1,0 +1,51 @@
+body{
+  font-family: sans-serif;
+}
+
+.direction{
+  width: 600px;
+  height: 115px;
+  margin: 0 auto;
+  margin-top: 188px;
+  padding-top: 7%;
+  font-weight: 400;
+  font-size: 19px;
+  text-align: center;
+}
+
+.title{
+  height: 50px;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+  border-bottom: 1px solid black;
+}
+
+.newsData{
+  background-color: lightgrey;
+  font-weight: normal;
+}
+
+#heading{
+  border-bottom: 1px solid black;
+  font-weight: 400;
+}
+
+#pageTitle{
+  height: 50px;
+  width: 17%;
+  margin: 0 auto;
+  text-align: center;
+  border-bottom: 2px solid grey;
+}
+
+.full{
+  margin-top: 50px;
+}
+
+#go{
+  margin-top: 30px;
+  width: 150px;
+  height: 30px;
+  background-color: #d2d2d2;
+}

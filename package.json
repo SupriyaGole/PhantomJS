@@ -1,0 +1,15 @@
+{
+  "name": "phantomjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "~/Downloads/phantomjs-2.1.1-'macosx 3'/bin/phantomjs newsGoogle.js && node server.js "
+  },
+  "author": "Supriya Gole",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
